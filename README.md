@@ -1,2 +1,2 @@
-# merritt
+# Merritt
 Merritt Long' s Portal
